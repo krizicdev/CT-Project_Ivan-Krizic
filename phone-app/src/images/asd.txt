@@ -1,0 +1,41 @@
+      <Header />
+      <Navbar />
+      <AddContact addContactHandler={addContactHandler} />
+      <ContactList contacts={contacts} getContactId={removeContactHandler} />
+      <ContactDetails contacts={contacts} />
+
+
+
+
+
+
+
+            <div>
+        <input
+        className="section"
+          type="button"
+          value="Click to Open Popup"
+          onClick={togglePopup}
+        />
+
+        {isOpen && (
+          <Popup
+            content={
+              <AddContact />
+            }
+            handleClose={togglePopup}
+          />
+        )}
+      </div>
+
+
+
+                  <Route
+              path="/edit"
+              render={(props) => (
+                <EditContact
+                  {...props}
+                  updateContactHandler={updateContactHandler}
+                />
+              )}
+            />

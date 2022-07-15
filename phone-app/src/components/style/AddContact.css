@@ -1,0 +1,94 @@
+.field3 {
+  position: fixed;
+  position: absolute;
+  width: 440px;
+  height: 100%;
+  background: #e6ecf7;
+  top: 80px;
+  left: 212px;
+}
+
+.field {
+  margin-top: 4px;
+  display: block;
+  width: 150%;
+  padding: 10px 15px;
+
+  border-radius: 100px;
+  transition: 0.4s;
+}
+
+.field:focus {
+  box-shadow: 0px 0px 5px #1b2647;
+}
+
+.formposition {
+  position: absolute;
+  left: 65px;
+  top: 170px;
+}
+
+.field3 h2 {
+  position: absolute;
+  left: 150px;
+  top: 10px;
+  font-size: 25px;
+  color: #011393;
+  font-weight: 600;
+  margin-bottom: 25px;
+}
+.formposition label {
+  color: #1b2647;
+  font-size: 13px;
+  margin-bottom: 5px;
+  transition: 0.4s;
+}
+
+.dropdown {
+  height: 30px;
+  border: none;
+  border-radius: 30px;
+}
+
+.button {
+  margin-top: 30px;
+  margin-left: 100px;
+  height: 30px;
+  width: 50%;
+  color: white;
+  border-radius: 5px;
+  background: #011393;
+}
+
+.cancelbutton {
+  margin-top: 30px;
+  margin-left: 100px;
+  height: 30px;
+  width: 50%;
+  color: white;
+  border-radius: 5px;
+  background: #f34e9b;
+
+}
+
+.button:hover {
+  background-color: #192792;
+}
+
+.choose {
+  margin-top: 4px;
+  display: block;
+  width: 150%;
+  padding: 10px 15px;
+  border: NONE;
+  border-radius: 100px;
+  color: rgb(95, 95, 95);
+}
+
+
+.editicons {
+  height: 100px;
+  position: absolute;
+  top: 40px;
+  left: 174px;
+}

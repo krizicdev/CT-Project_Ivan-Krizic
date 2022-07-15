@@ -1,0 +1,42 @@
+/* colors
+ #ED1C5B; light 
+ #E20E4E; dark
+*/
+
+/* reset */
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body{
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Sidebar start here  */
+.sidebar{
+    position: fixed;
+    background: #011393;
+    width: 212px;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    position: absolute;
+    top: 80px;
+}
+
+
+.sidebar a {
+    display: block;
+    color: rgb(255, 255, 255);
+    padding: 16px;
+    text-decoration: none;
+  }
+
+
+.a:hover {
+    background-color: #ffffff;
+}

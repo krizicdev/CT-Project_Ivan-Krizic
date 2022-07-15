@@ -1,0 +1,153 @@
+.section {
+    position: fixed;
+    position: absolute;
+    width: 440px;
+    height: 100%;
+    background: #e6ecf7;
+    top: 80px;
+    left: 212px;
+}
+
+.sec2 {
+    position: fixed;
+    position: absolute;
+    width: 628px;
+    height: 100%;
+    background-color: #f3f6fa;
+    top: 80px;
+    left: 652px;
+}
+  
+
+
+
+.section h2 {
+    left: 10px;
+    font-size: 25px;
+    color: #1b2647;
+    font-weight: 500;
+    margin-bottom: 25px;
+  }
+
+
+.cc {
+    background-color: rgb(255, 255, 255);
+    width: 420px;
+    margin-top: 10px;
+    margin-left: 10px;
+    right: auto;
+    height: 100px;
+    border-radius: 20px;
+    
+
+}
+
+
+.icon {
+    margin-top: 20px;
+    margin-left: 15px;
+    position: absolute;
+    float: left;
+    height: 60px;
+    width: 60px;
+}
+
+
+.font {
+    font-size: 12px;
+    margin-top: 20px;
+    position: absolute;
+    left: 100px;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+
+.font h2 {
+    font-size: 14px;
+    color: #011393;
+    font-weight: 600;
+}
+
+.section h3 {
+    position: fixed;
+    position: absolute;
+
+    left: 10px;
+    bottom: 834px;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: 500;
+    margin-bottom: 30px;
+    z-index: 1;
+}
+
+.trash {
+    margin-top: 32px;
+    margin-left: 385px;
+    position: absolute;
+
+}
+
+
+.eye {
+    margin-top: 33px;
+    margin-left: 330px;
+    position: absolute;
+
+}
+
+.pencil {
+    margin-top: 33px;
+    margin-left: 355px;
+    position: absolute;
+
+}
+
+.addbutton {
+    font-size: 200px;
+    font-weight: 600;
+    position: fixed;
+    background-color: #F34E9B;
+    width: 40px;
+    height: 40px;
+    font-size: 15px;
+    color: white;
+    border-radius: 50px;
+    left: 570px;
+    top: 750px;
+    z-index: 1;
+}
+
+ul {
+    position: absolute;
+    top: 20px;
+    color: #011393;
+    overflow: hidden;
+    padding-left:29px;
+    font-weight: 600;
+  }
+  
+  li {
+
+    display:inline
+  }
+
+  
+.searchicon {
+    position: fixed;
+    position: absolute;
+    left: 1020px;
+    bottom: 857px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    z-index: 1;
+
+}
+
+
+
+.cardz {
+    position: absolute;
+    top: 50px;
+}

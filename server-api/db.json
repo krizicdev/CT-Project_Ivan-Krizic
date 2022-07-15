@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": "c5701473-3855-479e-8927-f1f1d76a6864",
+      "name": "Kelse",
+      "lastname": "Crowthery",
+      "email": "kelise@mail.com",
+      "category": "Family"
+    },
+    {
+      "id": "049ef9d4-6528-47a0-8d6b-bf8f0120e5e4",
+      "name": "Tea",
+      "lastname": "Keley",
+      "email": "tea@mail.com",
+      "category": "Work"
+    },
+    {
+      "id": "4cf439ec-5d9b-4d63-8cd8-557bc9fee924",
+      "name": "Jaden",
+      "lastname": "Reeves",
+      "email": "jaden@mail.com",
+      "category": "Friends"
+    },
+    {
+      "id": "3fb671ff-2b86-4e4f-9feb-7ae8b0e36b44",
+      "name": "Marcos",
+      "lastname": "Burks",
+      "email": "marxos@mail.com",
+      "category": "School"
+    }
+  ]
+}
